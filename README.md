@@ -33,7 +33,7 @@ The code, projects and algorithms you will see here are proof of how confused I 
 <img src="assets/hardhat.png" alt="Hardhat Ethereum" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/delphi.png" alt="Delphi" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/java.png" alt="Java" height="40" width="40" style="vertical-align:top; margin:4px">
-<img src="assets/kotlin.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
+<img src="assets/kotlin.jpeg" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/php.png" alt="PHP" height="40" style="vertical-align:top; margin:4px">
 <img src="assets/typescript.svg.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
 
