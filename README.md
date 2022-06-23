@@ -24,6 +24,8 @@ How to reach me: [Twitter](https://twitter.com/captanbravo), [Linkedin](https://
 
 The code, projects and algorithms you will see here are proof of how confused I am.
 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=barisatalay&show_icons=true&theme=radical)
+
 #### 🧰 Languages and Tools:
 
 <p align="left">
