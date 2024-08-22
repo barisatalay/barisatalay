@@ -13,8 +13,6 @@ The code, projects and algorithms you will see here are proof of how confused I 
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align="center">
- [![](https://raw.githubusercontent.com/barisatalay/barisatalay-profile/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards&theme=monokai)
-
  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=barisatalay&theme=dark&hide_border=true" alt="Baris's git commit streak" />
  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=barisatalay&theme=juicyfresh&row=2&column=3&no-frame=true&title=Commit,PullRequest,Followers" alt="Baris's git commit trophies" />
 </p>
