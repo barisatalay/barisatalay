@@ -1,8 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=barisatalay.barisatalay">
-
 ### Hi there 👋
 
-I'm just developer.
+I'm just human.
 
 How to reach me: [Twitter](https://twitter.com/captanbravo), [Linkedin](https://www.linkedin.com/in/barisatalay07)
 
